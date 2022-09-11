@@ -4,8 +4,6 @@ public class MainApp {
     static String[][] arraySizeExeption = {{"1","1"},{"1","1","1","1"},{"1","1"},{"1","1","1","1"}};
     static String[][] arrayDataExeption = {{"1","1","l","1"},{"1","1","1","1"},{"1","1","1","1"},{"1","1","1","1"}};
 
-
-
     static int sizeI = 4;
     static int sizeJ = 4;
 
